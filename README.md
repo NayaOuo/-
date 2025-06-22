@@ -1,1 +1,1 @@
-# -
+# Plague infection model
